@@ -30,20 +30,20 @@
             "connDONE": "```Queen Amdi bot has been successfully activated! ✅```\n\n_Please do not try commands here. This is your bot logs chat._\n\n*Thank you for using Queen Amdi 💌*"
         },
         "amdiMenu": {
-            "panelTitle": "📋 HILEM BOT V5 KOMUT LISTESI 💃🏻♥️",
-            "panelText": "\n\n📚 Komutlar 5 kategoriye ayrılmıştır. :\n\n```01.Temel Komutlar - Tüm Temel Komutlar.\n\n02.İndirme Komutları - Resim Video Müzik.\n\n03.Logo Commands - Logo Komutları.\n\n04.Admin Komutları - Grup admin komutları)\n\n05.Profil Komutları - Bot Kurucusuna ait komutlar)```\n\n*Lütfen bir komut kategorisi seçin.*",
-            "command": "*Komut :* ",
-            "desc": "*Açıklama :* ",
-            "example": "*Örnek :* ",
-            "rateUs": "⭐ HIL3M Oyla",
-            "sysStats": "💻 Hizmet Durumu",
-            "primaryCMD": "*Temel Komutlar*",
-            "pvtCMD": "*PM Komutları*",
-            "adminCMD": "*Grup Yönetim Komutları*",
-            "downloadCMD": "*İndirme Komutları*",
-            "logocmd": "*Logo Komutları*",
-            "profileCMD": "*Profil Komutları*",
-            "SpecialAdmin": "*(Bot Yöneticisine Özel Komutlar)*\n\n"
+            "panelTitle": "📋 QUEEN AMDI COMMAND LIST 💃🏻♥️",
+            "panelText": "\n\n📚 Queen Amdi Commands are classified into 5 categories :\n\n```01.Primary Commands - All main commands.(Any user allowed)\n\n02.Download Commands - Media downloading commands.\n\n03.Logo Commands - Logo making commands.\n\n04.Admin Commands - Groups related commands.(Only group admins allowed)\n\n05.Profile Commands - Bot settings and bot WhatsApp profile related commands.(Only Bot owner and VIP users allowed)```\n\n*Please choose a command category and get the command list.*",
+            "command": "*Command :* ",
+            "desc": "*Description :* ",
+            "example": "*Example :* ",
+            "rateUs": "⭐ Add a rating",
+            "sysStats": "💻 System Status",
+            "primaryCMD": "*Primary Commands*",
+            "pvtCMD": "*Private Commands*",
+            "adminCMD": "*Group Admin Commands*",
+            "downloadCMD": "*Download Commands*",
+            "logocmd": "*Logo Commands*",
+            "profileCMD": "*Profile Commands*",
+            "SpecialAdmin": "*(There is special feature that you can block specific commands for the group. Type commands that need to block in the group description without the prefix.)*\n\n"
         },
         "anti_functions": {
             "badwordkick": "*⛔ Bad words are forbidden by group admins.*"
