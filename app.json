@@ -1,14 +1,14 @@
 {
-    "name": "Queen Amdi",
-    "description": "Queen Amdi [Multi-device] - A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience. 💃🏻❤️",
+    "name": "HILEM",
+    "description": "HILEM DESC 💃🏻❤️",
     "keywords": [
-        "Queen Amdi",
+        "HILEM",
         "WhatsApp",
-        "Black Amda",
+        "HILEM",
         "multi-device"
     ],
-    "website": "https://amdaniwasa.com/",
-    "repository": "https://github.com/BlackAmda/QueenAmdi",
+    "website": "https://hilemprojects.com/",
+    "repository": "https://github.com/hil3m/",
     "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
     "success_url": "https://dashboard.heroku.com/apps/",
     "env": {
