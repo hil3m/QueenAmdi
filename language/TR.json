@@ -1,8 +1,8 @@
 {
     "QueenAmdiMD": true,
-    "LANGUAGE": "English",
-    "LANGCODE": "EN",
-    "AUTHOR": "BlackAmda",
+    "LANGUAGE": "Turkish",
+    "LANGCODE": "TR",
+    "AUTHOR": "hilem",
     "STRINGS": {
         "amdiModule": {
             "version": "4.0.3v",
